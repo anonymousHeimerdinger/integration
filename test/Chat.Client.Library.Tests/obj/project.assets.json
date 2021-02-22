@@ -7026,11 +7026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj",
       "projectName": "Chat.Client.Library.Tests",
-      "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj",
+      "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj",
       "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\test\\Chat.Client.Library.Tests\\obj\\",
+      "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7051,11 +7051,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\src\\Chat.Client.Library\\Chat.Client.Library.csproj": {
-              "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\src\\Chat.Client.Library\\Chat.Client.Library.csproj"
+            "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj": {
+              "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj"
             },
-            "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj": {
-              "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj"
+            "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj": {
+              "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj"
             }
           }
         }

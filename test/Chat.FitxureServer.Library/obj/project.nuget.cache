@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Zml/cdeg2CNImJo+DPEi/MZ/jnjyQ1k8Seu8Gs4FWnh/yTxzBCUrPnteJaCAQh2PUV35HRfLxvMr4rCaJ7pIw==",
+  "dgSpecHash": "1oOzK6lexQc/8e/arRpSqS+GXueehI2XZ4cLY9c4+mR2rhItO6AHUWzEovlYKVJKWGJYFkI+EZcbmOlE/qLwkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj",
+  "projectFilePath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anony\\.nuget\\packages\\coverlet.msbuild\\3.0.2\\coverlet.msbuild.3.0.2.nupkg.sha512",
     "C:\\Users\\anony\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.6.0.0-preview.1.21102.2.nupkg.sha512",

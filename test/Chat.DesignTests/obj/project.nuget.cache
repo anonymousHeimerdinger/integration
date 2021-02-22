@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a1vgs+R2JgH/iQnwyGYGOR3IfApLpbaSwDXrlG6nEFt23uyAQjPHbMlJpX5/kTvfutdBP/SEfzU2uf2Ucr3jCw==",
+  "dgSpecHash": "VQphe0G8CAbUpPQTaXKgBJ419RcyEojRqhlZGjCDW9M9hPUK01erO9BwGg3hfWzo8Y+cvco9RDyh5M5MtpD7Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\test\\Chat.DesignTests\\Chat.DesignTests.csproj",
+  "projectFilePath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.DesignTests\\Chat.DesignTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anony\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\anony\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

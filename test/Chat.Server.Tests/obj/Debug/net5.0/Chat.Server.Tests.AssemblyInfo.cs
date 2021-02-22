@@ -11,17 +11,17 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.Client.Library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\sr" +
-    "c\\Chat.Client.Library", "Chat.Client.Library.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\sr" +
-    "c\\Chat.Common", "Chat.Common.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.Client.Library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration" +
+    "\\src\\Chat.Client.Library", "Chat.Client.Library.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration" +
+    "\\src\\Chat.Common", "Chat.Common.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.FitxureServer.Library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" +
-    "", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\te" +
-    "st\\Chat.FitxureServer.Library", "Chat.FitxureServer.Library.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\sr" +
-    "c\\Chat.Server", "Chat.Server.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.Server.Library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\sr" +
-    "c\\Chat.Server.Library", "Chat.Server.Library.csproj", "0")]
+    "", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration" +
+    "\\test\\Chat.FitxureServer.Library", "Chat.FitxureServer.Library.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration" +
+    "\\src\\Chat.Server", "Chat.Server.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Chat.Server.Library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration" +
+    "\\src\\Chat.Server.Library", "Chat.Server.Library.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chat.Server.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

@@ -9416,11 +9416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\src\\Chat.Server\\Chat.Server.csproj",
+      "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\Chat.Server.csproj",
       "projectName": "Chat.Server",
-      "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\src\\Chat.Server\\Chat.Server.csproj",
+      "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\Chat.Server.csproj",
       "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\src\\Chat.Server\\obj\\",
+      "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -9441,8 +9441,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\src\\Chat.Server.Library\\Chat.Server.Library.csproj": {
-              "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\src\\Chat.Server.Library\\Chat.Server.Library.csproj"
+            "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj": {
+              "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nsbs4nq7/aEKBloFn4CFct/H/bUk/ktbsLWGIilNmEkyAFBIRDVyeZYrrRQJ3hz819bs1gegqHBnjH+zjB/+8w==",
+  "dgSpecHash": "yxTnJ1HaeZd0ZPEUX09B4awVg0OLdqoHHPkT7NMnfbeg61lbVLZeAVMeZpgcu41GEv1x4vYGM75AWlU+NwgSUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_coverage\\src\\Chat.Common\\Chat.Common.csproj",
+  "projectFilePath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anony\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\anony\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
